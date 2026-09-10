@@ -1,5 +1,5 @@
 # Guess_the_number!
-*I created a number-guessing game using Python.
+* I created a number-guessing game using Python.
 
 ## built with
 * Python 3
