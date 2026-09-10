@@ -1,4 +1,4 @@
-# Number guessing
+# Guess_the_number!
 *I created a number-guessing game using Python.
 
 ## built with
