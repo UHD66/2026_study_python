@@ -1,6 +1,12 @@
 # Guess_the_number!
 * I created a number-guessing game using Python.
 
+## reason for prodoction
+* To learn the basics of python(Loop processing, branching logic, and exception handling)
+* Learn how to use the random module.
+## Key points and notable features
+* Made it possible to generate a random number between 1 and 100.
+* It count how many attempts it took to clear the game.
 ## built with
 * Python 3
 * Google Colaboratory
