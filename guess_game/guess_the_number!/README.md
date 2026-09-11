@@ -14,3 +14,6 @@
 1. Open this script in [Google Colab](https://google.com).
 2. Click the **Run** button to start the game.
 3. Guess the secret number by entering your inputs in the console!  
+## Updete to ver2
+* I added comments to make the program easier to read.
+* I've made it possible to choose between hard to easy difficulty levels
