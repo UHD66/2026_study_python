@@ -14,5 +14,7 @@
 1. Open this script in google colaboratory.
 2. Click the Run button to start the game.
 3. Guess the secret number by entering your inputs in the console!
+## Update v1.1
+* Correction of errors
 ## Update Details
 * coming soon...
