@@ -6,7 +6,8 @@
 * I simplified the code using def.
 ## Key points
 * You can play against the cpu!
-
+* I simplified the code using def.
+* cpu algorithm setting
 ## How to play
 * Open this script in google colaboratory.
 * Click the Run button to start the game.
