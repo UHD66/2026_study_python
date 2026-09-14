@@ -3,8 +3,8 @@
 ## 作った理由など
 * pythonの基本を学ぶため（分岐、ランダム、判定など）
 ## 特徴など
-*　wasdで操作できるようにしました。
-*　距離によって近いかどうかなど教えれくれるようにしました。
+* 距離によって近いかどうかなど教えれくれるようにしました。
+* wasdで操作できるようにしました。
 ## プレイのしかた
 1. Open this script in google colaboratory.
 2. Click the Run button to start the game.
