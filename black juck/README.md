@@ -11,4 +11,4 @@
 ## How to play
 * Open this script in google colaboratory.
 * Click the Run button to start the game.
-* Guess the secret number by entering your inputs in the console!
+* black juck by entering your inputs in the console!
