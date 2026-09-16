@@ -6,6 +6,6 @@
 * 距離によって近いかどうかなど教えれくれるようにしました。
 * wasdで操作できるようにしました。
 ## プレイのしかた
-1. Open this script in google colaboratory.
-2. Click the Run button to start the game.
-3. Guess the secret number by entering your inputs in the console!
+1. google colaboratoryでファイルを開きます。
+2. 実行ボタンを押します。
+3. あとは指示に従ってください。
