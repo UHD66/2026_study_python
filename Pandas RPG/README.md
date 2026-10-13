@@ -22,5 +22,5 @@ edf.loc[a, "hp"] = edf.loc[a, "hp"] - damage
 
 ## Future Plans (Roadmap)
 * Add enemy counter-attacks (Turn loop). ✅️
-* Add skills and MP system.
+* Add skills and MP system. ✅️
 * Drop defeated enemies from the DataFrame. ✅️
